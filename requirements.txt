@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+tensorflow
+pandas
+numpy
+matplotlib
+scikit-learn
+streamlit
+pyomo
+cplex
+openpyxl
