@@ -10,3 +10,4 @@ streamlit
 pyomo
 cplex
 openpyxl
+PuLP
