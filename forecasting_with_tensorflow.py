@@ -219,8 +219,8 @@ class DemandForecastingModel(metaclass=Singleton):
         ] = ModelData.TEST_PREDICTION
         ModelData.PLOT_TEST_DATA = testPredictPlot
 
-        with open(DATA_FILE, 'ab') as f:
-            pickle.dump(ModelData, f)
+        # with open(DATA_FILE, 'ab') as f:
+        #     pickle.dump(ModelData, f)
 
 # # load the dataset
 # dataframe = read_csv('data/demand.csv', usecols=[0, 1, 4], engine='python')
